@@ -11,6 +11,10 @@
 ### Então, selecione as opções que mais se adequam a ti clique em "OK" quando concluir.
 ![image](https://github.com/nickyyay/manualpuppyos/assets/166295742/3e7e177e-4b1c-47e1-b7d0-980ae79c1ec4)
 ### ***Terceira etapa;***
+### Ao avançar da segunda etapa, aparecerão alguns POP-UPS, tais como:
+### **_POP-UP de pacote de língua_**
+### - Dependendo do idioma que você escolher, poderá existir a necessidade da instalação de um pacote de língua. Nesse caso, siga as instruções que serão fornecidas.
+![image](https://github.com/nickyyay/manualpuppyos/assets/166295742/d1ca2609-ceda-4fc6-963c-68944e9d612e)
 
 
 
