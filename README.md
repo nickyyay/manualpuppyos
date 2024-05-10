@@ -21,5 +21,6 @@
 ### **_POP-UP sincronização de sistema e relógio_**
 ## Nessa opção, estará dizendo que o sistema e relógio está sincronizado de acordo com o que você selecionou antes(segunda etapa). Caso as informações estiverem corertas, pressione "Sync to time server", se não, mude as informações em "Timezone".
 ![image](https://github.com/nickyyay/manualpuppyos/assets/166295742/55a148d1-b8e4-42f4-9f44-267c0ce981e1)
-### **
+### **_Quarta etapa_**
+### Agora, o seu dispositivo está instalado e configurado com o sistema Operacional PUPPY! Aproveite! :)
 
