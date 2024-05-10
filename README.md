@@ -19,7 +19,7 @@
 ### Aqui, você pode escolher quais conexões podem passar pelo seu Firewall, o seja, o sistema de segurança. Se isso lhe for interessante, desmarque a segunda opção e selecione as conexões e prossiga, caso contrário, apenas pressione "Apply".
 ![image](https://github.com/nickyyay/manualpuppyos/assets/166295742/49bd89a0-ad0d-4a13-9bdb-c06de0e0d6cb)
 ### **_POP-UP sincronização de sistema e relógio_**
-## Nessa opção, estará dizendo que o sistema e relógio está sincronizado de acordo com o que você selecionou antes(segunda etapa). Caso as informações estiverem corertas, pressione "Sync to time server", se não, mude as informações em "Timezone".
+## Nessa opção, estará dizendo que o sistema e relógio está sincronizado de acordo com o que você selecionou antes(segunda etapa). Caso as informações estiverem corretas, pressione "Sync to time server", se não, mude as informações em "Timezone".
 ![image](https://github.com/nickyyay/manualpuppyos/assets/166295742/55a148d1-b8e4-42f4-9f44-267c0ce981e1)
 ### **_Quarta etapa_**
 ### Agora, o seu dispositivo está instalado e configurado com o sistema Operacional PUPPY! Aproveite! :)
